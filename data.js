@@ -367,9 +367,9 @@ const dictionaryData = [
     handling:
       "Compile thoải mái, chiều chuộng lại. Lỗi Crash: Đang chat 'khum' tự nhiên chuyển thành 'Không.' có dấu chấm -> Giao diện mầm non đã tắt. Lập tức rà soát log chat để debug.",
     reply: [
-      "Có, em nói đúng lắm ạ.",
-      "Anh hiểu rồi, anh sẽ cố gắng tốt hơn.",
-      "Em yên tâm, anh sẽ giải quyết ngay.",
+      "Trả lời lại 1 cách dễ thương nhất",
+      "",
+      "Cưng chiều cô ấy",
     ],
     tags: ["protocol"],
     keywords: ["hong", "khum", "khơm", "bicc", "đựtt"],
@@ -427,9 +427,9 @@ const dictionaryData = [
     handling:
       "Variable Check: Đọc kỹ ký tự cuối. Nếu có hậu tố dằn mặt, không được rep 'Ừ'. Phải hạ giọng debug ngay.",
     reply: [
-      "Có, em nói đúng lắm ạ.",
-      "Anh hiểu rồi, anh sẽ cố gắng tốt hơn.",
-      "Em yên tâm, anh sẽ giải quyết ngay.",
+      "Có việc gì sao bé",
+      "tự trả lời riêng đi",
+      "",
     ],
     tags: ["protocol"],
     keywords: ["biến", "output", "khác", "hoàn", "toàn"],
@@ -443,9 +443,9 @@ const dictionaryData = [
     handling:
       "Tắt máy ngay. Nhắn tin xác nhận mức độ ưu tiên: 'Nãy anh mải test cảm biến nên không để ý. Người yêu anh vẫn là Top 1'.",
     reply: [
-      "Có, em nói đúng lắm ạ.",
-      "Anh hiểu rồi, anh sẽ cố gắng tốt hơn.",
-      "Em yên tâm, anh sẽ giải quyết ngay.",
+      "Có việc gì sao bé",
+      "Comment dạo cho vui thôi chứ tim anh có mỗi 1 slot, mà em giữ lâu rồi còn gì",
+      "Nãy anh lướt dạo tí cho đỡ stress thôi chứ không có gì đâu 😭 chứ người anh để ý nhất vẫn là em đó.",
     ],
     tags: ["ghen tuông"],
     keywords: ["nhiên", "khách", "'ông'", "xưng", "'tôi'"],
@@ -458,9 +458,9 @@ const dictionaryData = [
     handling:
       "Khen cụ thể dáng váy/màu sắc. Khi ra đường, tự động bật Module Camera, chủ động tìm góc sáng chụp 100 tấm không đợi nhắc.",
     reply: [
-      "Có, em nói đúng lắm ạ.",
-      "Anh hiểu rồi, anh sẽ cố gắng tốt hơn.",
-      "Em yên tâm, anh sẽ giải quyết ngay.",
+      "Anh định mặc áo trắng á, em mặc màu gì để anh match với em cho đẹp nè 😏",
+      "Anh tính mặc áo đen cho dễ phối, mà nếu em có concept gì thì nói anh đổi liền nha 😌",
+      "Anh mặc gì cũng được, miễn là đứng cạnh em là đẹp nhất rồi 😚",
     ],
     tags: ["protocol"],
     keywords: ["tiếng", "trước", "'anh", "thiết", "chuẩn"],
@@ -473,9 +473,9 @@ const dictionaryData = [
     handling:
       "Chuyển câu hỏi mở thành câu hỏi đóng: 'Trời Cần Thơ nay mát mát nè, mình ghé quán lẩu quen chỗ bờ kè nha, hay em thích ăn đồ nướng xèo xèo?'",
     reply: [
-      "Có, em nói đúng lắm ạ.",
-      "Anh hiểu rồi, anh sẽ cố gắng tốt hơn.",
-      "Em yên tâm, anh sẽ giải quyết ngay.",
+      "Trời nóng vầy ăn lẩu chắc xỉu, hay mình vô quán trà sữa ngồi chill chill rồi gọi đồ ăn vặt ăn từ từ ha?",
+      "Anh thấy quán lẩu mới mở chỗ bờ kè review ngon lắm nè, hay mình thử đi?",
+      "Em muốn ăn gì thì nói anh, anh chiều hết miễn là em vui 😚",
     ],
     tags: ["protocol"],
     keywords: ["quán", "'trời", "nóng", "ngon'", "test"],
@@ -488,9 +488,9 @@ const dictionaryData = [
     handling:
       "Tuyệt đối không hối thúc. Cứ thong thả làm việc của mình. Nàng xuống thì bảo: 'Anh cũng đang tranh thủ đọc nốt tí tài liệu, em cứ từ từ'.",
     reply: [
-      "Có, em nói đúng lắm ạ.",
-      "Anh hiểu rồi, anh sẽ cố gắng tốt hơn.",
-      "Em yên tâm, anh sẽ giải quyết ngay.",
+      "Anh cũng đang tranh thủ đọc nốt tí tài liệu, em cứ từ từ 😚",
+      "Em cứ từ từ làm đẹp đi, anh đợi được mà 😚",
+      "Anh cũng đang bận code nốt cái tính năng này, em cứ làm đẹp tự nhiên nha 😚",
     ],
     tags: ["protocol"],
     keywords: ["phút", "xuống", "code", "xong", "nguyên"],
@@ -503,9 +503,9 @@ const dictionaryData = [
     handling:
       "Khi nàng khen, hãy chốt hạ khẳng định chủ quyền: 'Mấy cái web 3D với hạt lấp lánh này anh chỉ code riêng cho người yêu anh thôi'.",
     reply: [
-      "Có, em nói đúng lắm ạ.",
-      "Anh hiểu rồi, anh sẽ cố gắng tốt hơn.",
-      "Em yên tâm, anh sẽ giải quyết ngay.",
+      "U là chòiii, Mê xỉuuu 😚",
+      "Sao anh giỏi thế 🥺",
+      "Mấy cái web 3D với hạt lấp lánh này anh chỉ code riêng cho người yêu anh thôi 😚",
     ],
     tags: ["protocol"],
     keywords: ["chòiii", "xỉuuu", "giỏi", "phản", "nhận"],
@@ -518,9 +518,9 @@ const dictionaryData = [
     handling:
       "Tạm dừng script. Order ly trà sữa ship tới hoặc xách xe chạy qua bóp vai 15 phút. Giải quyết vấn đề tâm lý, không phải y tế.",
     reply: [
-      "Có, em nói đúng lắm ạ.",
-      "Anh hiểu rồi, anh sẽ cố gắng tốt hơn.",
-      "Em yên tâm, anh sẽ giải quyết ngay.",
+      "Dạo này mỏi cổ ghê 🥺",
+      "Tự nhiên thèm đồ ngọt ngang 😚",
+      "Hay là mình đi massage thư giãn tí ha?",
     ],
     tags: ["protocol"],
     keywords: ["nhiên", "thèm", "ngọt", "ngang", "thấy"],
@@ -533,9 +533,9 @@ const dictionaryData = [
     handling:
       "Phân tích logic rồi mới chốt: 'Màu đen sang, nhưng màu đỏ tôn da em, anh vote màu đỏ'.",
     reply: [
-      "Có, em nói đúng lắm ạ.",
-      "Anh hiểu rồi, anh sẽ cố gắng tốt hơn.",
-      "Em yên tâm, anh sẽ giải quyết ngay.",
+      "Tóc ngắn thì cá tính, tóc dài thì dịu dàng, mà em để kiểu nào cũng xinh hết á 😚",
+      "Màu đen thì sang, nhưng màu đỏ tôn da em, anh vote màu đỏ 😚",
+      "Em để kiểu nào cũng xinh hết á 😚",
     ],
     tags: ["protocol"],
     keywords: ["ngắn", "sugoi", "feedback", "end-user", "phải"],
@@ -548,9 +548,11 @@ const dictionaryData = [
     handling:
       "Không được im lặng chờ 'bình tĩnh'. Tìm mọi kênh liên lạc, không được thì đứng trước cửa nhà mua sẵn đồ ăn nàng thích.",
     reply: [
-      "Có, em nói đúng lắm ạ.",
-      "Anh hiểu rồi, anh sẽ cố gắng tốt hơn.",
-      "Em yên tâm, anh sẽ giải quyết ngay.",
+      "Anh biết em đang giận và không muốn nói chuyện lúc này…",
+      "Nhưng anh không muốn im lặng rồi mất em đâu 🥺",
+      "Nếu anh sai chỗ nào, em nói anh biết để anh sửa được không?",
+      "Anh vẫn ở đây, khi nào em sẵn sàng thì mình nói chuyện lại nha",
+      "Còn nếu em chưa muốn rep… thì anh vẫn sẽ đợi, nhưng đừng biến mất lâu quá nha 😞"
     ],
     tags: ["protocol"],
     keywords: ["active", "block", "thời", "thống", "ngắt"],
@@ -563,9 +565,10 @@ const dictionaryData = [
     handling:
       "Dừng mọi tác vụ. Rollback lại bộ nhớ 10 phút trước xem phát ngôn sai gì. Nhận lỗi ngay lập tức.",
     reply: [
-      "Có, em nói đúng lắm ạ.",
-      "Anh hiểu rồi, anh sẽ cố gắng tốt hơn.",
-      "Em yên tâm, anh sẽ giải quyết ngay.",
+      "Hình như nãy anh nói gì đó làm em không vui đúng không…",
+      "Nếu anh lỡ lời chỗ nào thì anh xin lỗi nha, anh không có ý làm em khó chịu đâu 🥺",
+      "Em nói anh biết để anh sửa nha, chứ anh không muốn em khó chịu mà anh lại không hiểu vì sao",
+      "Anh quan tâm cảm xúc của em nên anh mới hỏi vậy đó, đừng giận anh lâu nha 😞"
     ],
     tags: ["protocol"],
     keywords: ["ngột", "chuyển", "sang", "gỏng", "thực"],
@@ -578,9 +581,11 @@ const dictionaryData = [
     handling:
       "Bật Safe Mode. Không tranh luận đúng sai. Cung cấp nước ấm, chườm bụng, đồ ngọt và nhẫn nhịn.",
     reply: [
-      "Có, em nói đúng lắm ạ.",
-      "Anh hiểu rồi, anh sẽ cố gắng tốt hơn.",
-      "Em yên tâm, anh sẽ giải quyết ngay.",
+      "Em mệt lắm đúng không… lại đây anh ôm chút nha 🥺",
+      "Không sao đâu, có anh ở đây rồi, em cứ thoải mái đi",
+      "Anh biết mấy hôm này em khó chịu trong người… anh thương mà không biết làm sao cho em đỡ hơn 😞",
+      "Để anh lấy nước ấm cho em nha, cần gì cứ nói anh liền luôn",
+      "Hôm nay em không cần mạnh mẽ đâu, có anh lo rồi"
     ],
     tags: ["protocol"],
     keywords: ["khóc", "video", "lãng", "bụng", "chịu"],
@@ -607,9 +612,11 @@ const dictionaryData = [
     handling:
       "Nêu rõ Exception: 'Anh sai vì mải code quên nhắn em'. Đưa phương án: 'Từ mai anh đặt báo thức không miss tin nhắn nữa'.",
     reply: [
-      "Có, em nói đúng lắm ạ.",
-      "Anh hiểu rồi, anh sẽ cố gắng tốt hơn.",
-      "Em yên tâm, anh sẽ giải quyết ngay.",
+      "Anh không nhớ mấy chuyện đó nữa đâu… giờ anh chỉ quan tâm mỗi em thôi",
+      "Ngày xưa là chuyện cũ rồi, còn hiện tại với anh thì em là nhất rồi 😏",
+      "So gì nữa trời, mỗi người một kiểu… nhưng gu anh giờ là em rồi đó",
+      "Anh từng có quá khứ, nhưng hiện tại anh chọn em mà, vậy là đủ rồi đúng không",
+      "Anh không muốn nhắc về chuyện cũ đâu… vì giờ người anh quan tâm là em thôi 🥺"
     ],
     tags: ["lỗi hệ thống"],
     keywords: ["biết", "'anh", "lỗi'", "null", "value"],
@@ -622,9 +629,11 @@ const dictionaryData = [
     handling:
       "Shut down task phụ ngay. 'Mấy việc râu ria gì tầm này, anh cất máy đi ngủ cùng em đây'.",
     reply: [
-      "Có, em nói đúng lắm ạ.",
-      "Anh hiểu rồi, anh sẽ cố gắng tốt hơn.",
-      "Em yên tâm, anh sẽ giải quyết ngay.",
+      "Ơ kìa, ngủ gì sớm vậy… đợi anh xíu, anh xong liền rồi qua nói chuyện với em nha",
+      "Game với việc để đó cũng được, chứ để em buồn là không được rồi 😞",
+      "Anh ở đây với em xíu rồi em ngủ, chứ tự nhiên nói vậy là anh biết em đang không vui rồi đó",
+      "Thôi anh nghỉ đây, qua với em chút đã, chứ để em ngủ một mình sao được",
+      "Đừng ngủ vội… nói chuyện với anh xíu đi rồi hẵng ngủ nha 🥺"
     ],
     tags: ["ghen tuông"],
     keywords: ["thôi", "việc/chơi", "game", "tiếp", "tiến"],
@@ -636,9 +645,11 @@ const dictionaryData = [
     handling:
       "Phủ nhận API nếu là lời chê ('Bạn em mắt kém rồi'). Bắt sóng nếu là gợi ý ('Cuối tuần anh chở đi lượn nha').",
     reply: [
-      "Có, em nói đúng lắm ạ.",
-      "Anh hiểu rồi, anh sẽ cố gắng tốt hơn.",
-      "Em yên tâm, anh sẽ giải quyết ngay.",
+      "Béo gì mà béo, anh thấy vẫn xinh mà, nhìn còn muốn ôm hơn nữa 😏",
+      "Bạn em chắc nhìn nhầm rồi, gu anh thì em vẫn là nhất",
+      "Ơ túi hả… cuối tuần rảnh không, anh chở em đi xem thử nha",
+      "Người ta có thì em cũng phải có chứ, để anh lo cho 😌",
+      "Em mà thích gì cứ nói anh, chứ đừng kể vòng vòng vậy là anh hiểu đó nha 😆"
     ],
     tags: ["protocol"],
     keywords: ["tặng", "thăm", "kiến", "hoặc", "khéo"],
@@ -651,9 +662,11 @@ const dictionaryData = [
     handling:
       "Chụp Burst liên tục. Căn góc từ dưới lên kéo chân. Luôn mồm khen 'Góc này xinh nè' để nàng tự tin tạo dáng.",
     reply: [
-      "Có, em nói đúng lắm ạ.",
-      "Anh hiểu rồi, anh sẽ cố gắng tốt hơn.",
-      "Em yên tâm, anh sẽ giải quyết ngay.",
+      "Ơ không, do góc thôi, ngoài đời em xinh hơn nhiều 😏",
+      "Để anh chỉnh lại góc xíu, góc này chưa tôn hết nét của em",
+      "Nãy giờ chưa bắt được góc đẹp nhất thôi, để anh chụp lại cho em kiểu xịn hơn nha",
+      "Nghiêng nhẹ xíu, đúng rồi đó… góc này xinh nè 🥺",
+      "Tin anh đi, anh chụp cho em kiểu nào cũng xinh hết"
     ],
     tags: ["protocol"],
     keywords: ["chụp", "nhiên", "trông", "camera", "định"],
@@ -666,9 +679,11 @@ const dictionaryData = [
     handling:
       "Ping back ngay với năng lượng tương đương: 'Thương qué đi mò, rảnh anh phi qua đón liền!'.",
     reply: [
-      "Có, em nói đúng lắm ạ.",
-      "Anh hiểu rồi, anh sẽ cố gắng tốt hơn.",
-      "Em yên tâm, anh sẽ giải quyết ngay.",
+      "Nhớ anh hả… lại đây anh cho cắn nè 😏",
+      "Cắn nhẹ thôi nha, anh mà cắn lại là không có tha đâu đó 😆",
+      "Nhớ vậy thì cuối tuần anh qua ôm cho đỡ nhớ nha 🥺",
+      "Trời ơi dễ thương vậy ai chịu nổi… qua đây anh ôm cái coi",
+      "Ping nhận được rồi nha, giờ anh nhớ lại gấp đôi luôn rồi đó 😌"
     ],
     tags: ["protocol"],
     keywords: ["ping", "kiểm", "trạng", "tình"],
@@ -681,9 +696,11 @@ const dictionaryData = [
     handling:
       "Phối hợp nhiệt tình: 'Nuôi mèo nha, mốt anh làm thêm máy cho ăn tự động bằng ESP32 nữa là chuẩn'.",
     reply: [
-      "Có, em nói đúng lắm ạ.",
-      "Anh hiểu rồi, anh sẽ cố gắng tốt hơn.",
-      "Em yên tâm, anh sẽ giải quyết ngay.",
+      "Nuôi mèo nha, nhìn em ôm mèo chắc dễ thương xỉu luôn 😏",
+      "Anh thì thích con gái giống em, chắc dễ thương lắm luôn 🥺",
+      "Sau này nuôi gì cũng được, miễn là có em với anh cùng chăm là được rồi",
+      "Nuôi chó hay mèo cũng ok, anh lo phần chăm sóc, em lo dễ thương là đủ 😆",
+      "Nghe giống đang plan tương lai chung vậy á… mà anh thấy cũng hợp lý đó chứ 😌"
     ],
     tags: ["protocol"],
     keywords: ["nuôi", "thích", "trai", "thiết", "tương"],
@@ -696,9 +713,11 @@ const dictionaryData = [
     handling:
       "Thả tim vào comment. Lưu địa chỉ. Cuối tuần tự động chở qua quán đã tag.",
     reply: [
-      "Có, em nói đúng lắm ạ.",
-      "Anh hiểu rồi, anh sẽ cố gắng tốt hơn.",
-      "Em yên tâm, anh sẽ giải quyết ngay.",
+      "Cái này hay nè 😆 lưu lại, bữa nào anh dẫn em đi thử nha",
+      "Ơ quán này nhìn ổn áp đó, cuối tuần mình ghé không 😏",
+      "Tag anh kiểu này là có ý đồ hết rồi nha… ok anh nhận kèo 😌",
+      "Video này hợp tụi mình ghê 😆 coi xong muốn làm theo luôn á",
+      "Anh lưu rồi đó nha, để bữa nào thực hiện cùng em cho đúng vibe 🥺"
     ],
     tags: ["protocol"],
     keywords: ["video", "quán", "ngôn", "tình", "giao"],
@@ -710,9 +729,11 @@ const dictionaryData = [
     handling:
       "Trêu chọc lại một chút rồi dỗ ngọt. Đừng dùng logic phân định đúng sai.",
     reply: [
-      "Có, em nói đúng lắm ạ.",
-      "Anh hiểu rồi, anh sẽ cố gắng tốt hơn.",
-      "Em yên tâm, anh sẽ giải quyết ngay.",
+      "Ủa ai dỗi vậy ta… dễ thương quá nên anh không biết dỗ sao luôn 😆",
+      "Dỗi có 5 phút thôi hả, cho anh thêm 5 phút nữa để dỗ kỹ hơn được không 😏",
+      "Géc xỉu luôn cơ à… lại đây anh ôm cái là hết liền nè 🥺",
+      "Thôi thôi đừng dỗi nữa, anh thương rồi nè, ngoan xíu đi 😌",
+      "Dỗi tiếp là anh cắn đó nha… mà cắn xong lại phải dỗ tiếp 😆"
     ],
     tags: ["cần dỗ"],
     keywords: ["phút", "thống", "pop-up"],
@@ -725,9 +746,11 @@ const dictionaryData = [
     handling:
       "Dùng chất xám, không vung tiền. Tự làm đồ tech độc quyền hoặc viết một cái web nhỏ xinh tên nàng là đủ hạ gục.",
     reply: [
-      "Có, em nói đúng lắm ạ.",
-      "Anh hiểu rồi, anh sẽ cố gắng tốt hơn.",
-      "Em yên tâm, anh sẽ giải quyết ngay.",
+      "Ừ anh biết em không cần mấy thứ đó… nhưng anh vẫn muốn làm gì đó cho em vui 😌",
+      "Không cần mắc tiền đâu, anh tự chuẩn bị cho em cái gì đó đặc biệt hơn",
+      "Em không thiếu, nhưng anh thì thích làm em cười 😏",
+      "Yên tâm đi, anh không phí tiền đâu… mà là đầu tư cho em đó 😆",
+      "Anh không mua linh tinh đâu, anh làm riêng cho em luôn cho khác biệt 🥺"
     ],
     tags: ["protocol"],
     keywords: ["đừng", "tiền", "thiếu", "thương", "sinh"],
@@ -740,9 +763,11 @@ const dictionaryData = [
     handling:
       "Cung cấp Full Access. Đọc pass rõ ràng, cho xem màn hình công khai. Càng minh bạch càng an toàn.",
     reply: [
-      "Có, em nói đúng lắm ạ.",
-      "Anh hiểu rồi, anh sẽ cố gắng tốt hơn.",
-      "Em yên tâm, anh sẽ giải quyết ngay.",
+      "Tin nhắn bình thường thôi, em muốn xem thì anh đưa nè, không có gì phải giấu đâu 😌",
+      "Anh không đổi pass gì hết đâu, em yên tâm nha",
+      "Anh không thích giấu em chuyện gì đâu, nên em cứ thoải mái hỏi nha",
+      "Nếu em thấy không an tâm thì anh cho em xem luôn, để em đỡ suy nghĩ nhiều",
+      "Anh chỉ muốn em cảm thấy an toàn thôi, chứ anh không có gì mập mờ hết 🥺"
     ],
     tags: ["protocol"],
     keywords: ["nhắn", "pass", "điện", "thoại", "soát"],
@@ -755,9 +780,11 @@ const dictionaryData = [
     handling:
       "Gấp laptop lại. Chở nàng ra đường hóng gió, tấp quán quen làm tô hủ tiếu. Ngồi cạnh nghe nàng nói là CPU tự hạ nhiệt.",
     reply: [
-      "Có, em nói đúng lắm ạ.",
-      "Anh hiểu rồi, anh sẽ cố gắng tốt hơn.",
-      "Em yên tâm, anh sẽ giải quyết ngay.",
+      "Hôm nay em mệt lắm đúng không… thôi lại đây anh chở đi đâu đó cho thoải mái xíu nha 🥺",
+      "Anh thấy em không ổn rồi đó… nghỉ xíu đi, anh ở với em",
+      "Đừng nằm một mình vậy, đi với anh ra ngoài hít gió xíu cho đỡ bí nha",
+      "Việc để đó cũng được, chứ em mệt vậy anh không yên tâm đâu 😞",
+      "Không cần nói gì nhiều đâu, cứ ngồi với anh xíu là được rồi"
     ],
     tags: ["protocol"],
     keywords: ["than", "thấy", "'bên", "nhau", "tuổi"],
@@ -769,9 +796,11 @@ const dictionaryData = [
     handling:
       "Biên dịch lại mã: 'Em đang rất có sao'. Tạm dừng việc và quan tâm nàng ngay lập tức.",
     reply: [
-      "Có, em nói đúng lắm ạ.",
-      "Anh hiểu rồi, anh sẽ cố gắng tốt hơn.",
-      "Em yên tâm, anh sẽ giải quyết ngay.",
+      "Anh biết câu ‘không sao’ của em là đang có sao rồi đó… 😞",
+      "Thôi đừng giả vờ ổn nữa, nói anh nghe đi, anh ở đây mà",
+      "Việc để đó cũng được, chứ em như vậy anh không tập trung nổi đâu",
+      "Anh không tin em ‘không sao’ đâu… lại đây anh nghe em nói nè 🥺",
+      "Em không cần phải mạnh mẽ với anh đâu, có gì cứ nói hết ra nha"
     ],
     tags: ["protocol"],
     keywords: ["việc", "thật", "cổng", "logic", "ngược"],
@@ -784,9 +813,11 @@ const dictionaryData = [
     handling:
       "Accept ngay lập tức. Cùng nhau làm dự án chung là cách tối ưu hóa database tình cảm vững chắc nhất.",
     reply: [
-      "Có, em nói đúng lắm ạ.",
-      "Anh hiểu rồi, anh sẽ cố gắng tốt hơn.",
-      "Em yên tâm, anh sẽ giải quyết ngay.",
+      "Thiệt hả 😏 có em phụ là anh mừng lắm luôn đó",
+      "Cuối tuần có em là anh có thêm động lực liền 🥺",
+      "Vậy là tụi mình có kỷ niệm chung rồi nha, nghe thích ghê",
+      "Anh đang tính rủ em luôn á, ai ngờ em nói trước 😆",
+      "Đi chung với anh nha, xong rồi anh dẫn em đi ăn bù công luôn 😌"
     ],
     tags: ["protocol"],
     keywords: ["cuối", "tuần", "chuẩn", "muốn", "integrate"],
@@ -798,9 +829,11 @@ const dictionaryData = [
     handling:
       "Duy trì phong độ. Cậu đã chính thức lấy được Full Quyền Root (Admin)!",
     reply: [
-      "Có, em nói đúng lắm ạ.",
-      "Anh hiểu rồi, anh sẽ cố gắng tốt hơn.",
-      "Em yên tâm, anh sẽ giải quyết ngay.",
+      "Dạo này em chủ động ghê nha… làm anh thích quá đó 😏",
+      "Được rủ đi ăn hoài vậy ai mà không mê cho được 🥺",
+      "Em vậy là anh phải giữ kỹ lắm rồi đó nha 😆",
+      "Icon tim gửi hoài vậy là có ý đồ gì đây ta 😌",
+      "Anh thấy tụi mình hợp nhau dữ luôn á… càng ngày càng thích em hơn rồi đó"
     ],
     tags: ["protocol"],
     keywords: ["lịch", "trình", "động", "icon", "liên"],
@@ -813,9 +846,11 @@ const dictionaryData = [
     handling:
       "Không được Return. Phải ở lại Debug. Dùng hành động: Ôm từ phía sau, xoa đầu, và hỏi lại bằng giọng trầm ấm nhất: 'Nói anh nghe, ai làm ngừi iu anh buồn?'.",
     reply: [
-      "Có, em nói đúng lắm ạ.",
-      "Anh hiểu rồi, anh sẽ cố gắng tốt hơn.",
-      "Em yên tâm, anh sẽ giải quyết ngay.",
+      "Anh không tin đâu… em vậy là đang có chuyện rồi 😞",
+      "Thôi đừng ‘không có gì’ nữa, nói anh nghe đi, anh ở đây mà",
+      "Ai làm em buồn vậy… nói anh nghe, anh xử lý cho 😏",
+      "Em không cần giấu với anh đâu, có gì cứ nói hết ra nha 🥺",
+      "Anh ở đây rồi, không đi đâu hết… khi nào em muốn nói thì anh nghe"
     ],
     tags: ["lỗi hệ thống"],
     keywords: ["'không", "lạnh", "tanh", "biến", "null"],
@@ -829,9 +864,11 @@ const dictionaryData = [
     handling:
       "Tuyệt đối không cãi 'Chuyện qua rồi nhắc lại làm gì'. Lỗi cũ chưa được resolve triệt để. Nhận cả combo lỗi: 'Anh sai, cả chuyện cũ lẫn chuyện nay anh đều sai, anh xin lỗi'.",
     reply: [
-      "Có, em nói đúng lắm ạ.",
-      "Anh hiểu rồi, anh sẽ cố gắng tốt hơn.",
-      "Em yên tâm, anh sẽ giải quyết ngay.",
+      "Ừ… anh biết chuyện đó anh cũng làm em buồn, anh xin lỗi 😞",
+      "Không phải tự nhiên em nhắc lại đâu… chắc lúc đó anh làm em tổn thương thật",
+      "Cả chuyện cũ lẫn chuyện giờ, anh đều sai vì làm em buồn… anh xin lỗi nha 🥺",
+      "Anh không muốn cãi nhau kiểu này, anh muốn hiểu em hơn để không lặp lại nữa",
+      "Mình nói chuyện từ từ thôi nha, anh ở đây để giải quyết chứ không phải để thắng"
     ],
     tags: ["protocol"],
     keywords: ["nhau", "chuyện", "nhiên", "tháng", "trước"],
@@ -845,9 +882,11 @@ const dictionaryData = [
     handling:
       "Phá vỡ Deadlock bằng cách Force Stop cuộc cãi vã. Hạ giọng: 'Anh nóng quá, cho anh xin lỗi. Anh nghe em nói này'. Tuyệt đối không được im lặng thi gan.",
     reply: [
-      "Có, em nói đúng lắm ạ.",
-      "Anh hiểu rồi, anh sẽ cố gắng tốt hơn.",
-      "Em yên tâm, anh sẽ giải quyết ngay.",
+      "Anh xin lỗi… nãy anh nóng quá, anh nói không suy nghĩ 😞",
+      "Đừng im lặng vậy mà… anh muốn nghe em nói, để anh hiểu em hơn",
+      "Anh không muốn tụi mình kết thúc cuộc nói chuyện kiểu này đâu… mình nói lại nha 🥺",
+      "Nếu anh sai chỗ nào, em nói anh biết… anh không muốn làm em buồn thêm nữa",
+      "Anh hạ cái tôi rồi nè… giờ anh chỉ muốn hiểu em thôi"
     ],
     tags: ["nguy hiểm cao", "cơn bão yên tĩnh"],
     keywords: ["tranh", "luận", "nhiên", "lặng", "nhìn"],
@@ -861,9 +900,11 @@ const dictionaryData = [
     handling:
       "Giao nộp thiết bị vô điều kiện. Càng tỏ ra giấu giếm, điểm Trust Score (độ tin cậy) càng giảm. Pass phải luôn được share từ trước.",
     reply: [
-      "Có, em nói đúng lắm ạ.",
-      "Anh hiểu rồi, anh sẽ cố gắng tốt hơn.",
-      "Em yên tâm, anh sẽ giải quyết ngay.",
+      "Nè, em muốn xem thì cứ xem thoải mái nha, anh không có gì phải giấu đâu 😌",
+      "Điện thoại anh đó, em check đi, coi xong nhớ trả anh nha 😆",
+      "Anh không thích giấu em chuyện gì đâu, nên em cứ tự nhiên nha",
+      "Nếu vậy làm em yên tâm hơn thì anh đưa luôn nè, không vấn đề gì 🥺",
+      "Anh minh bạch từ đầu rồi đó nha… nên em cứ thoải mái kiểm tra 😏"
     ],
     tags: ["protocol"],
     keywords: ["nhiên", "điện", "thoại", "lướt", "check"],
